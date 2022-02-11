@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CB539689-033A-4967-8F5E-FB7DF6EBE813}|Default">
+  <MonoDevelop.Ide.ItemProperties.SantiagoSarabia-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SantiagoSarabia-1/EmptyClass.cs">
+    <Files>
+      <File FileName="SantiagoSarabia-1/Program.cs" Line="27" Column="10" />
+      <File FileName="SantiagoSarabia-1/EmptyClass.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SantiagoSarabia-1" expanded="True">
+            <Node name="SantiagoSarabia-1" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

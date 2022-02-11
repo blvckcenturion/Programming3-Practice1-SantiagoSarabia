@@ -1,0 +1,6 @@
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/bin/Debug/SantiagoSarabia-1.exe
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/bin/Debug/SantiagoSarabia-1.pdb
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/obj/Debug/SantiagoSarabia-1.csproj.AssemblyReference.cache
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/obj/Debug/SantiagoSarabia-1.csproj.CoreCompileInputs.cache
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/obj/Debug/SantiagoSarabia-1.exe
+/Users/santiagosarabia/Projects/SantiagoSarabia-1/SantiagoSarabia-1/obj/Debug/SantiagoSarabia-1.pdb
